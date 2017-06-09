@@ -1,0 +1,15 @@
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/obj/Debug/Assembly-CSharp.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jaehyunlee/UnityProject/SpaceShooter/Temp/bin/Debug/Unity.CecilTools.dll
